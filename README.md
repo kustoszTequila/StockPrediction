@@ -1,2 +1,2 @@
 # StockPrediction
-Made togeather with @Fasinir
+Made together with [Fasinir](https://github.com/Fasinir)
